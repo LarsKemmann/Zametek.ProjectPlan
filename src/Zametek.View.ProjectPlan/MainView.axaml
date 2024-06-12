@@ -57,7 +57,7 @@
 							</MultiBinding.Bindings>
 						</MultiBinding>
 					</ia:DataTriggerBehavior.Binding>
-					<ia:ChangePropertyAction PropertyName="Background" TargetObject="#mainmenu" Value="White" />
+					<ia:ChangePropertyAction PropertyName="Background" TargetObject="#mainmenu" Value="Black" />
 					<!--<ia:ChangePropertyAction PropertyName="Foreground" TargetObject="#mainmenu" Value="Black" />-->
 				</ia:DataTriggerBehavior>
 			</i:Interaction.Behaviors>
